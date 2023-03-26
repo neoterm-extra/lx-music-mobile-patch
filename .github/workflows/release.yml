@@ -1,4 +1,4 @@
-name: Build patch pack
+name: Build
 
 on:
   push:
